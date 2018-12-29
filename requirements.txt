@@ -1,4 +1,4 @@
 guidebook-api-python==0.0.2
 icalendar==3.10
 pytz==2016.7
-requests==2.11.1
+requests==2.21.0
